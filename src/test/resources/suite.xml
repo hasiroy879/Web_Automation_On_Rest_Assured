@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name = "Daily finance rest assured integration testing">
+    <test name = " Daily Finance Automation">
+        <classes>
+            <class name = "testrunner.TestRunner">
+
+            </class>
+        </classes>
+    </test>
+</suite>
