@@ -1,15 +1,15 @@
 ## Creating Postman Collection by using postman & also creating Web automation by using Rest Assured on Daily Finace App
 ### Description: By doing this project, I can create postman collection & automate some API request such as
-####a. Register a new user
-####b. Login by admin
-c. Get user list
-d. search the new user by user id
-e. edit the user info (e.g. firstname, phonenumber)
-f. Login by any user
-g. Get item list
-h. Add any item
-i. Edit any item name
-j. Delete any item from the item list
+- Register a new user
+- Login by admin
+- Get user list
+- Search the new user by user id
+- Edit the user info (e.g. firstname, phonenumber)
+- Login by any user
+- Get item list
+- Add any item
+- Edit any item name
+- Delete any item from the item list
 
 ### For Postman: 
 #### Here I can provide only the documentation link
