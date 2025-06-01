@@ -31,3 +31,6 @@
 
 #### Allure Test report
 ![image alt](https://github.com/hasiroy879/Web_Automation_On_Rest_Assured/blob/main/allure.png?raw=true)
+
+#### Test cases link for the above test senario
+[Click here](https://docs.google.com/spreadsheets/d/1VwrbxZIA6RDzmbxecSjWXGIinzxKb_c3/edit?usp=sharing&ouid=108828473512528251679&rtpof=true&sd=true)
