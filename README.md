@@ -1,4 +1,4 @@
-## Creating Postman Collection by using postman & also creating Web automation by using Rest Assured on Daily Finace App
+## Creating Postman Collection by using postman & also creating Web automation by using Rest Assured on Daily Finance App
 ### Description: By doing this project, I can create postman collection & automate some API request such as
 - Register a new user
 - Login by admin
